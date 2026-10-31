@@ -1,3 +1,10 @@
+# 1.0.0 (2026-10-31)
+
+
+### Features
+
+* add wine label dashboard ([2e159e4](https://github.com/sanskarbhandari24/Wine_lable-main/commit/2e159e41f612541ee0d5392a8196b01b04281693))
+
 ## [1.0.7](https://github.com/pranavbhandare31/Wine_lable/compare/v1.0.6...v1.0.7) (2026-10-17)
 
 
